@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 800px;
+    height: 800px;
+    position: relative;
+    margin-left: 100px;
+}
+
+div#wrapper div {
+    border-radius: 200px;
+    width: 100px;
+    height: 100px;
+    background: #3593FF;
+    position: absolute;
+}

@@ -1,0 +1,50 @@
+div#navigation{
+    margin-top: 150px; 
+    margin-left: 540px;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    display: inline;
+}
+div#imgs {
+    float: left;
+
+}
+
+button{
+    display: block;
+    margin-top: 60px;
+    position: absolute;
+    border: none;
+    align-content: center;
+    width: 50px;
+    height: 40px;
+    border-radius: 2px;
+}
+button#next{
+    left: 810px;
+}
+
+button#previous{
+    left: 420px;
+}
+
+img:first-of-type{
+    position: absolute;
+    display: block;
+}
+
+img:not(:first-child){
+    position: absolute;
+    display: none;
+}
+
+button img {
+    width: 35px;
+    height: 35px;
+    margin-top: -23px;
+    margin-left: 3px;
+    padding-top: 5px;
+}
