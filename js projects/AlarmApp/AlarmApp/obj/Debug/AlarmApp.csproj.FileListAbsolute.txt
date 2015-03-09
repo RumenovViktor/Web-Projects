@@ -1,0 +1,12 @@
+c:\users\viktor\documents\visual studio 2013\Projects\AlarmApp\AlarmApp\bin\AlarmApp.dll.config
+c:\users\viktor\documents\visual studio 2013\Projects\AlarmApp\AlarmApp\bin\AlarmApp.dll
+c:\users\viktor\documents\visual studio 2013\Projects\AlarmApp\AlarmApp\bin\AlarmApp.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\AlarmApp\AlarmApp\obj\Debug\AlarmApp.dll
+c:\users\viktor\documents\visual studio 2013\Projects\AlarmApp\AlarmApp\obj\Debug\AlarmApp.pdb
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\AlarmApp\AlarmApp\bin\AlarmApp.dll.config
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\AlarmApp\AlarmApp\bin\AlarmApp.dll
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\AlarmApp\AlarmApp\bin\AlarmApp.pdb
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\AlarmApp\AlarmApp\obj\Debug\AlarmApp.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\AlarmApp\AlarmApp\obj\Debug\AlarmApp.dll
+C:\Users\Viktor\Desktop\PROJECTS\Visual Studio Projects\AlarmApp\AlarmApp\obj\Debug\AlarmApp.pdb

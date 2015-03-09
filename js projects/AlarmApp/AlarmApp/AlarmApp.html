@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/page-style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper">
+        <div id="clock">
+
+        </div>
+        <audio controls="controls" preload="auto" src="05%20-%20100%20Suns.mp3" id="mp3"></audio>
+        <div id="app-body">
+            <div id="input-form">
+                <form id="info">
+                    <label>Hour:</label>
+                    <input type="text" class="data" /><br />
+                    <label>Minutes:</label>
+                    <input type="text" class="data" />
+                    <button type="button" id="ok">OK</button>
+                    <button type="button" id="cancel">Cancel</button>
+                </form>
+            </div>
+            <div id="alarm-area">
+                <h2>No alarms.</h2>
+            </div>
+            <form id="buttons-create-form">
+                <button type="button" id="add" class="managing-buttons">Add alarm</button>
+                <button type="button" id="delete" class="managing-buttons">Delete alarm</button>
+            </form>
+        </div>
+    </div>
+    <script src="scripts/application.js"></script>
+    <script src="scripts/Alarm.js"></script>
+    <script src="scripts/clock.js"></script>
+</body>
+</html>
